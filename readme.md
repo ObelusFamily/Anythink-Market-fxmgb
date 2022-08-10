@@ -2,6 +2,8 @@
 
 To start the app use Docker. It will start both frontend and backend, including all the relevant dependencies, and the db.
 
+Docker Instructions:
+
 Install Docker
 Install WSL for windows if needed
 Signup and sign into Docker Desktop
